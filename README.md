@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/matheuscustodio/"><img src="/card.png" /></a>
+<a href="https://www.linkedin.com/in/matheuscustodio/"><img src="/card-me.png" /></a>
 
 ## Olá pessoal 👋
 Me chamo Matheus Custódio e trabalho como Desenvolvedor de Softwares Front-end. Abaixo vou deixar as linguagens que possuo conhecimento e no momento além de aprender novas linguagens também estudo sobre Clean Code e Arquitetura de Software. A também amo investir, estudar e conversar sobre o assunto.
